@@ -62,7 +62,7 @@ export default async function RootLayout({
     return (
       <html lang="en" className={`${inter.variable} font-sans`}>
         <Head>
-          <title>Settings Unavailable | Danswer</title>
+          <title>Settings Unavailable | Thrive</title>
         </Head>
         <body className="bg-background text-default">
           <div className="flex flex-col items-center justify-center min-h-screen">
