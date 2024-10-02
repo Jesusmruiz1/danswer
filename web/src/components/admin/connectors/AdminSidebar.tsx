@@ -65,7 +65,7 @@ export function AdminSidebar({ collections }: { collections: Collection[] }) {
                       )}
                     </div>
                   ) : (
-                    <HeaderTitle>Danswer</HeaderTitle>
+                    <HeaderTitle>Thrive</HeaderTitle>
                   )}
                 </div>
               </div>
